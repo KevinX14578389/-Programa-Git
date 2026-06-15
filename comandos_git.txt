@@ -1,0 +1,5 @@
+git init
+git remote add github URL_DEL_REPOSITORIO
+git remote -v
+git add .
+git commit -m "Primer commit"
